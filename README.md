@@ -4,7 +4,7 @@ It is a webpage created with React JS for representing simple card  with a butto
 
 There are two ways to run this project.
  1. simply clicking on this link:
-    https:project52.herokuapp.com
+    [hosted on heroku](https://project52.herokuapp.com)
  
  2. cloning and running on local machine by following methods:
     
